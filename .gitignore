@@ -1,4 +1,5 @@
 .idea
 .bsp
+*.txt
 **/target
 **/day30
